@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 6.1 Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
 6.1.1 Break Up Apps With Too Many Models . . . . . . . . . . . . . 63
 6.1.2 Be Careful With Model Inheritance . . . . . . . . . . . . . . . 64
@@ -30,3 +31,5 @@ Table of Contents
 6.7.3 Model Behaviors vs Helper Functions . . . . . . . . . . . . . . 81
 6.8 Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 6.9 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+
+```

@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 26.1 Should You Even Care? . . . . . . . . . . . . . . . . . . . . . . . . . . 319
 26.2 Speed Up Query-Heavy Pages . . . . . . . . . . . . . . . . . . . . . . 319
 26.2.1 Find Excessive Queries With Django Debug Toolbar . . . . . . 319
@@ -17,3 +18,4 @@ Table of Contents
 26.8 Use Upstream Caching or a Content Delivery Network . . . . . . . . . 325
 26.9 Other Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
 26.10 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 327
+```

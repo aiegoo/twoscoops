@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 28.1 Reference Security Sections in Other Chapters . . . . . . . . . . . . . . 333
 28.2 Harden Your Servers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 333
 28.3 Know Django’s Security Features . . . . . . . . . . . . . . . . . . . . . 334
@@ -54,3 +55,4 @@ Table of Contents
 28.32 Review the List of Security Packages . . . . . . . . . . . . . . . . . . . 358
 28.33 Keep Up-to-Date on General Security Practices . . . . . . . . . . . . . 358
 28.34 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 359
+```

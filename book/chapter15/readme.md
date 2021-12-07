@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 15.1 Filters Are Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
 15.1.1 Filters Are Easy to Test . . . . . . . . . . . . . . . . . . . . . . 196
 15.1.2 Filters and Code Reuse . . . . . . . . . . . . . . . . . . . . . . 196
@@ -13,3 +14,5 @@ Table of Contents
 15.4 Loading Your Template Tag Modules . . . . . . . . . . . . . . . . . . . 199
 15.4.1 Watch Out for This Anti-Pattern . . . . . . . . . . . . . . . . . 199
 15.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+```

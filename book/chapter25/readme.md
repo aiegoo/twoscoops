@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 25.1 Use GitHub-Flavored Markdown for Docs . . . . . . . . . . . . . . . . 311
 25.2 Use MkDocs or Sphinx with Myst to Generate Documentation From
 Markdown . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313
@@ -12,3 +13,5 @@ StructuredText . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
 25.7 Wikis and Other Documentation Methods . . . . . . . . . . . . . . . . 316
 25.8 Ensuring that Code is Documented . . . . . . . . . . . . . . . . . . . . 316
 25.9 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
+
+```

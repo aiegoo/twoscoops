@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 29.1 Application Logs vs. Other Logs . . . . . . . . . . . . . . . . . . . . . 361
 29.2 Why Bother With Logging? . . . . . . . . . . . . . . . . . . . . . . . 361
 29.3 When to Use Each Log Level . . . . . . . . . . . . . . . . . . . . . . . 362
@@ -15,3 +16,4 @@ Table of Contents
 29.8 Necessary Reading Material . . . . . . . . . . . . . . . . . . . . . . . . 368
 29.9 Useful Third-Party Tools . . . . . . . . . . . . . . . . . . . . . . . . . 369
 29.10 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
+```

@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 31.1 Create a Core App for Your Utilities . . . . . . . . . . . . . . . . . . . 373
 31.2 Optimize Apps With Utility Modules . . . . . . . . . . . . . . . . . . 374
 31.2.1 Storing Code Used in Many Places . . . . . . . . . . . . . . . . 374
@@ -27,3 +28,4 @@ Table of Contents
 31.5.3 django.core.serializers.xml_serializer . . . . . . . . . . . . . . . 384
 31.5.4 rest_framework.serializers . . . . . . . . . . . . . . . . . . . . . 384
 31.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 385
+```

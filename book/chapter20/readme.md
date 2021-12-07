@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 20.1 The Temptation to Build FrankenDjango . . . . . . . . . . . . . . . . . 248
 20.2 Non-Relational Databases vs. Relational
 Databases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
@@ -9,3 +10,5 @@ Databases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
 20.2.4 How We Use Non-Relational Databases With Django . . . . . 251
 20.3 What About Replacing the Django Template Language? . . . . . . . . 251
 20.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+
+```

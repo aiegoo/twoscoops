@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 14.1 Keep Templates Mostly in templates/ . . . . . . . . . . . . . . . . . 173
 14.2 Template Architecture Patterns . . . . . . . . . . . . . . . . . . . . . . 174
 14.2.1 2-Tier Template Architecture Example . . . . . . . . . . . . . . 174
@@ -23,3 +24,5 @@ Table of Contents
 14.8 Error Page Templates . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
 14.9 Follow a Minimalist Approach . . . . . . . . . . . . . . . . . . . . . . 193
 14.10 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
+
+```

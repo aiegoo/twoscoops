@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 13.1 Validate All Incoming Data With Django Forms . . . . . . . . . . . . . 159
 13.2 Use the POST Method in HTML Forms . . . . . . . . . . . . . . . . 162
 13.3 Always Use CSRF Protection With HTTP Forms That Modify Data . . 162
@@ -15,3 +16,5 @@ Table of Contents
 13.8.2 Creating New Custom Widgets . . . . . . . . . . . . . . . . . 169
 13.9 Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
 13.10 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171
+
+```

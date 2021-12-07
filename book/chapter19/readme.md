@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 19.1 Popular JavaScript Approaches . . . . . . . . . . . . . . . . . . . . . . 237
 19.1.1 Building Single Page Apps When Multi-Page Apps Suffice . . . 239
 19.1.2 Upgrading Legacy Sites . . . . . . . . . . . . . . . . . . . . . . 239
@@ -22,3 +23,5 @@ Table of Contents
 19.5.1 Learn More JavaScript! . . . . . . . . . . . . . . . . . . . . . . 245
 19.6 Follow JavaScript Coding Standards . . . . . . . . . . . . . . . . . . . 245
 19.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+
+```

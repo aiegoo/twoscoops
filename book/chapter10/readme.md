@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 10.1 Guidelines When Working With CBVs . . . . . . . . . . . . . . . . . 121
 10.2 Using Mixins With CBVs . . . . . . . . . . . . . . . . . . . . . . . . . 122
 10.3 Which Django GCBV Should Be Used for What Task? . . . . . . . . . 123
@@ -14,3 +15,5 @@ Table of Contents
 10.6 Using Just django.views.generic.View . . . . . . . . . . . . . . . . . . . 136
 10.7 Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
 10.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+
+```

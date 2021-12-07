@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 7.1 Use get_object_or_404() for Single Objects . . . . . . . . . . . . . . . . 83
 7.2 Be Careful With Queries That Might Throw Exceptions . . . . . . . . . 84
 7.2.1 ObjectDoesNotExist vs. DoesNotExist . . . . . . . . . . . . . 84
@@ -18,3 +19,5 @@ Table of Contents
 7.7.4 Transactions in MySQL . . . . . . . . . . . . . . . . . . . . . 96
 7.7.5 Django ORM Transaction Resources . . . . . . . . . . . . . . . 96
 7.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+
+```

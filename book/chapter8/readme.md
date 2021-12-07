@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 8.1 When to Use FBVs or CBVs . . . . . . . . . . . . . . . . . . . . . . . 99
 8.2 Keep View Logic Out of URLConfs . . . . . . . . . . . . . . . . . . . 100
 8.3 Stick to Loose Coupling in URLConfs . . . . . . . . . . . . . . . . . . 102
@@ -15,3 +16,5 @@ URL Names . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
 8.6.1 The Simplest Views . . . . . . . . . . . . . . . . . . . . . . . . 109
 8.7 Don’t Use locals() as Views Context . . . . . . . . . . . . . . . . . . 110
 8.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+
+```

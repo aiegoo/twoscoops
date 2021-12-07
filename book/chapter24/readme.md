@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 24.1 Testing Saves Money, Jobs, and Lives . . . . . . . . . . . . . . . . . . . 293
 24.2 How to Structure Tests . . . . . . . . . . . . . . . . . . . . . . . . . . 294
 24.3 How to Write Unit Tests . . . . . . . . . . . . . . . . . . . . . . . . . 295
@@ -24,3 +25,5 @@ Table of Contents
 24.9 Playing the Game of Test Coverage . . . . . . . . . . . . . . . . . . . . 308
 24.10 Alternatives to unittest . . . . . . . . . . . . . . . . . . . . . . . . . . 309
 24.11 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+
+```
