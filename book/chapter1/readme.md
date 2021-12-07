@@ -1,5 +1,6 @@
 Table of Contents
 
+```
 1.1 The Importance of Making Your Code Readable . . . . . . . . . .  . . 1
 1.2 PEP 8 . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 2
 1.2.1 The 79-Character Limit . . . . . . . . . . . . . . . . . . . . . . 3
@@ -16,6 +17,7 @@ Table of Contents
 1.7.2 HTML and CSS Style Guides . . . . . . . . . . . . . . . . . . . . 10
 1.8 Never Code to the IDE (Or Text Editor) . . . . . . . . . . . . . .. 10
 1.9 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+```
 
 ### Habit of making 'readable'
 - Avoid abbreviating variable names.
