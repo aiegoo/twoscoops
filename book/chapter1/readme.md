@@ -78,7 +78,7 @@ in.
 Absolute imports start from the parent directory of the project or the top level 
 directory.
 So suppose we have a directory structure such as 
-```bash
+```diff
 └── project
     ├── package1
     │   ├── module1.py
@@ -102,7 +102,7 @@ then importing the function  `function1` from it.
 Absolute imports are similar to normal paths on pc except the the slashes are replaced with 
 periods(.)
 Lets say a  path is represented on a windows pc as 
-```
+```yaml
 Desktop\DEV\projects\laboratorymanagement
 ```
 In python, it will be translated to something such as `Desktop.DEV.projects.laboratorymanagement`
@@ -120,7 +120,7 @@ Double dots(..) means from the directory before the the current directory and so
 The advantage of explicit relative imports is that they are concise. 
 But when the directory structure is changed, the program breaks since the item can no longer be found.
 To show how explicit relative imports are concise, lets consider the same directory stucture.
-```bash
+```diff
 └── project
     ├── package1
     │   ├── module1.py
@@ -134,15 +134,15 @@ To show how explicit relative imports are concise, lets consider the same direct
 ```
 Suppose we were working in the package1 directory and wanted to import a function called funtion12 from the module module1, using relative imports 
 we do something like
-```
+```python
 from package1.module1 import function12
 ```
 Using explicit relative imports, we would import it using 
-```
+```python
 from .module1 import function12
 ```
-You can see that using explicit relative imports, the line length has reduced.
-In my opinion, explicit relative imports should only be used when impoting from modules in the current django application.
+@You can see that using explicit relative imports, the line length has reduced.
++In my opinion, explicit relative imports should only be used when impoting from modules in the current django application.
 To import modules from other apps, absolute imports should be used in order not to break the program when the file structure changes
 ```
 ```
