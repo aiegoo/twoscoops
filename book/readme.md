@@ -70,3 +70,4 @@ class WaffleConeCreateView(FoodMixin, CreateView):
 model = WaffleCone
 form_class = WaffleConeForm
 ```
+
