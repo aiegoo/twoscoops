@@ -141,6 +141,8 @@ Using explicit relative imports, we would import it using
 ```python
 from .module1 import function12
 ```
+
+```diff
 @ You can see that using explicit relative imports, the line length has reduced.
 + In my opinion, explicit relative imports should only be used when impoting from modules in the current django application.
 - To import modules from other apps, absolute imports should be used in order not to break the program when the file structure changes
